@@ -3,7 +3,7 @@ JWT ROHMAN
 ###################
 
 *******************
-Dibaut menggunakan
+Dibuat menggunakan
 *******************
 - Restfull Codeigniter 3
 - library JWT
